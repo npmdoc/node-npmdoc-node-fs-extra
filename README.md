@@ -1,4 +1,6 @@
-# api documentation for  [node-fs-extra (v0.8.2)](https://github.com/jprichardson/node-fs-extra)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-fs-extra.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-fs-extra) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-fs-extra.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-fs-extra)
+# npmdoc-node-fs-extra
+
+api documentation for  [node-fs-extra (v0.8.2)](https://github.com/jprichardson/node-fs-extra)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-fs-extra.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-fs-extra) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-fs-extra.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-fs-extra)
 #### fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as mkdir -p, cp -r, and rm -rf.
 
 [![NPM](https://nodei.co/npm/node-fs-extra.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-fs-extra)
